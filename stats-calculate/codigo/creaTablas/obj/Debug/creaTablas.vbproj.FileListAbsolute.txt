@@ -1,0 +1,12 @@
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\bin\Debug\creaTablas.exe.config
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\bin\Debug\creaTablas.exe
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\bin\Debug\creaTablas.pdb
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\bin\Debug\creaTablas.xml
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.Form1.resources
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.Resources.resources
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.vbproj.GenerateResource.cache
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.vbproj.CoreCompileInputs.cache
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.exe
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.xml
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.pdb
+C:\Users\danilo.verdugo\Desktop\codigoAndino\creaTablas\creaTablas\obj\Debug\creaTablas.vbprojAssemblyReference.cache
